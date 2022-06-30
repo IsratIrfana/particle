@@ -30,7 +30,7 @@ particlesJS('particles-js',
       "shape": {
         "type": "star",
         "stroke": {
-          "width": 2,
+          "width": 3,
           "color": "#ce8383"
         },
         "polygon": {
