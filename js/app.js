@@ -65,7 +65,7 @@ particlesJS('particles-js',
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#4040d8",
+        "color": "#000",
         "opacity": 0.4,
         "width": 1
       },
@@ -105,7 +105,7 @@ particlesJS('particles-js',
         },
         "bubble": {
           "distance": 400,
-          "size": 10,
+          "size": 15,
           "duration": 2,
           "opacity": 8,
           "speed": 3
